@@ -1,0 +1,66 @@
+Advance Database Concepts CS
+Monday 09:00am 222 Digital Image Processing CS 
+Compiler Construction CS
+Monday 11:00am  Digital Image Processing CS 
+Digital Image Processing CS
+Monday 11:00am  Islamic and Religious Studies BS-A 
+Artificial Intelligence CS-C
+Tuesday 02:00pm  Islamic and Religious Studies BS-A 
+Calculus and Ana. Geometry CS-G
+Tuesday 02:00pm  Islamic and Religious Studies BS-A 
+Communication & Presentation Skills CS-A1
+Tuesday 02:00pm  Islamic and Religious Studies BS-A 
+Digital Logic Design CS-A
+Tuesday 02:00pm  Islamic and Religious Studies BS-A 
+Digital Logic Design Lab CS-A1
+Tuesday 02:00pm  Islamic and Religious Studies BS-A 
+Entrepreneurship CS
+Tuesday 02:00pm  Islamic and Religious Studies BS-A 
+Information Retrieval CS
+Tuesday 02:00pm  Islamic and Religious Studies BS-A 
+Islamic and Religious Studies BS-A
+Tuesday 02:00pm  Islamic and Religious Studies BS-A 
+Object Oriented  Analysis & Design CS-A
+Tuesday 02:00pm  Islamic and Religious Studies BS-A 
+Object Oriented Programming Lab CS-A1
+Tuesday 02:00pm  Islamic and Religious Studies BS-A 
+Programming Fundamentals Lab CS-H1
+Tuesday 02:00pm  Islamic and Religious Studies BS-A 
+Project - I CS
+Tuesday 02:00pm  Islamic and Religious Studies BS-A 
+Software for Mobile Devices CS-B
+Tuesday 02:00pm  Islamic and Religious Studies BS-A 
+Web Programming CS-A
+Tuesday 02:00pm  Linear Algebra EE-1 
+Advanced Programming CS
+Monday 08:00am  Linear Algebra EE-1 
+Applied Physics CS-H
+Monday 08:00am  Linear Algebra EE-1 
+Linear Algebra EE-1
+Monday 08:00am  Linear Algebra EE-1 
+Network Security CS
+Monday 08:00am  Linear Algebra EE-1 
+Professional Issues in IT CS-A
+Monday 08:00am  Linear Algebra EE-1 
+Software Engineering CS-B
+Monday 08:00am  Linear Algebra EE-1 
+Theory of Automata CS-A
+Monday 08:00am 822 Psychology CS 
+Fundamental of Computer Vision CS-A
+Monday 02:00pm 836 Psychology CS 
+Modern Politics & Government CS
+Monday 02:00pm 958 Psychology CS 
+Project - II CS
+Monday 02:00pm  Psychology CS 
+Psychology CS
+Monday 02:00pm 870 Total Quality Management CS 
+Numerical Methods CS-D
+Tuesday 11:00am 877 Total Quality Management CS 
+Object Oriented Analysis & Design Lab CS-A2
+Tuesday 11:00am 879 Total Quality Management CS 
+Object Oriented Programming CS-A
+Tuesday 11:00am  Total Quality Management CS 
+Sociology CS-A
+Tuesday 11:00am  Total Quality Management CS 
+Total Quality Management CS
+Tuesday 11:00am 
