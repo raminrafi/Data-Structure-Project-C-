@@ -1,2 +1,4 @@
-# Data-Structure-Project-C-
-# This project prints timetable by storing it in linked list data structure and save all clashes in a .txt file.
+# Data-Structure-Project
+A project that finds possible clashes in a timetable using Linked List Data Structure and save those clashes in a .txt file.
+Add the file in any C++ compiler and run it
+
